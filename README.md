@@ -1,0 +1,1 @@
+All pages are internal tools for staff of one warehouse (WFDC Wangnoi, Thailand); most require an internal account to use. We do not imitate any other website. Since the warning we have: unpublished an old page that showed a company name next to an admin login (MKD2-Wangnoi), removed the corporate logo from the hub page (Landing-Page), and added robots.txt to block crawling.
